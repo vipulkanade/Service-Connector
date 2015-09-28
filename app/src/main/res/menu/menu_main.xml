@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/post_job"
+
+        android:title="@string/post_job"/>
+    <item
+        android:id="@+id/previous_job"
+
+        android:title="@string/previous_job"/>
+</menu>
